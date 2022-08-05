@@ -1,5 +1,5 @@
 
-## What Factors Will Affect Your Housing Price
+## Exploring new factors and machine learning algorithm to increase the R2 score
 
 I am really interested in real estate market and always interested what causing the housing price.
 
