@@ -1,10 +1,10 @@
 
 ## Exploring new factors and machine learning algorithm to increase the R2 score
 
-I am really interested in real estate market and always interested what causing the housing price.
+I am really interested in trading industry and always interested what causing the change of the rate of return and R2 score.
 
-![image](https://user-images.githubusercontent.com/109795677/180435410-6ede1619-b4a6-4854-9fcc-012381f8745c.png)
-*) Picture took from https://www.newamericanfunding.com/mortgage-real-estate-trends/home-prices-rising-every-major-housing-market/
+![image](https://user-images.githubusercontent.com/109795677/183232847-91323839-b36f-4d0d-a5d6-76a95892cbab.png)
+*) Picture took from (https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/overview)
 
 I did analysis using the dataset(AmesHouring.csv) I found from Kaggle. And I found the answers to the following questions:
 
