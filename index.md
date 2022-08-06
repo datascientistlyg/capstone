@@ -26,7 +26,7 @@ The graph shows that the orange dots based on linear regression with new factors
 ### Can lightgbm further increase the in sample R2 score?
 ![image](https://user-images.githubusercontent.com/109795677/183235170-82164117-1096-4a91-9ca1-1330c051e737.png)
 
-From the picture above, we can see that lightgbm model is more converge than the linear model. The R2 score of lightgbm regression is 0.817 
+From the picture above, we can see that lightgbm model in green dots is more converge than the linear model. The R2 score of lightgbm regression is 0.817 
 
 ### Conclusion
 New features such as "bid ask spread","bid gap","ask gap", "bid size imbalance", "ask size imbalance" with linear regression model can increase the R2 score and models like lightgbm could further increase the R2 score.
