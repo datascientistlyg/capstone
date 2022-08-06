@@ -15,6 +15,7 @@ I did analysis using the dataset downloaded from [Kaggle](https://www.kaggle.com
 ### What is the R2 score of naive prediction provided by Optiver?
 
 ![image](https://user-images.githubusercontent.com/109795677/183234385-22a792b7-183e-44d6-abc9-92ce4dbcdbf6.png)
+
 The picture above show the naive prediction scatter graph provided by Optiver. The R2 score is 0.628
 
 ### Which new factors could enhance the in sample R2 score by linear regression?
