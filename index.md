@@ -31,4 +31,4 @@ From the picture above, we can see that lightgbm model in green dots is more con
 ### Conclusion
 New features such as "bid ask spread","bid gap","ask gap", "bid size imbalance", "ask size imbalance" with linear regression model can increase the R2 score and models like lightgbm could further increase the R2 score.
 
-[Source Code](https://github.com/datascientistlyg/udacity_projects/blob/main/udacity_project1.ipynb).
+[Source Code](https://github.com/datascientistlyg/capstone_code).
